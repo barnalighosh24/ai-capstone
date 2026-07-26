@@ -16,3 +16,9 @@
 - Write modular and readable code.
 - Follow Conventional Commits.
 - Keep documentation up to date.
+
+## Git Workflow
+
+- Use Conventional Commits.
+- Write clear and meaningful commit messages.
+- Keep documentation updated with project changes.

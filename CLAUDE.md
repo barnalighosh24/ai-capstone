@@ -22,3 +22,11 @@
 - Use Conventional Commits.
 - Write clear and meaningful commit messages.
 - Keep documentation updated with project changes.
+
+## Project Rules Learned
+
+1. Always validate user input before form submission.
+
+2. Use accessible labels and ARIA attributes for every form control.
+
+3. Verify every implementation by running `npm run build` before committing.
